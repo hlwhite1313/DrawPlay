@@ -1,0 +1,2 @@
+# DrawPlay
+Your goal is to create a new project on GitHub and share it between two (or in some cases three) people. Remember that there are two primary ways to set up a project. These instructions will briefly walk through those options. You should not treat this as a step-by-step tutorial that you walk through blindly. Try to think at each step about what's happening, on both local machines and also on GitHub.
