@@ -1,3 +1,6 @@
+
+// Erin visak and Heather White
+
 import javax.swing.JPanel;
 import java.awt.*;
 import java.awt.geom.*;
