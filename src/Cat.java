@@ -2,6 +2,7 @@
 // Erin visak and Heather White
 // new changes again
 // new changes
+// Erin making changes
 
 import javax.swing.JPanel;
 import java.awt.*;
