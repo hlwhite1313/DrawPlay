@@ -2,12 +2,12 @@
 // Erin visak and Heather White
 // new changes again
 // new changes
-<<<<<<< HEAD
+
 // heather making changes
-=======
+
 // Erin making changes
 //pleeeeeeeeeeeeeeese
->>>>>>> bb3981b93fcf729c2e647f72a6a799b40e18eb9e
+
 
 import javax.swing.JPanel;
 import java.awt.*;
